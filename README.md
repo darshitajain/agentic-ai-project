@@ -1,3 +1,16 @@
+---
+title: LanggraphAgenticAI
+emoji: 🐨
+colorFrom: blue
+colorTo: red
+sdk: streamlit
+sdk_version: 1.42.0
+app_file: app.py
+pinned: false
+license: apache-2.0
+short_description: Refined langgraphAgenticAI
+---
+
 # AutoFlow: AI-Assisted SDLC Workflow  
 
 This AI-powered assistant automates and streamlines the **Software Development Life Cycle (SDLC)** by guiding software requirements through structured phases, ensuring **efficiency, security, and quality**.  

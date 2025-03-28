@@ -62,7 +62,7 @@ class LoadStreamlitUI:
         #st.title(self.config.get_page_title())
 
         # Load Image
-        image_path = "src\\langgraph_agentic_ai\\ui\\streamlit_ui\\workflow_diagram.png"
+        image_path = "src/langgraph_agentic_ai/ui/streamlit_ui/workflow_diagram.png"
         try:
             image = Image.open(image_path)
         except FileNotFoundError:

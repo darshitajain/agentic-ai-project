@@ -1,14 +1,18 @@
-#### SDLC Overview
-"""
-    This AI-powered workflow automates the Software Development Life Cycle (SDLC) by guiding a requirement through various phases:
+# AutoFlow: AI-Assisted SDLC Workflow  
 
-    1. **User Requirement** - Capturing the initial user requirement.
-    2. **Product Owner Review** - Validating and refining the requirement.
-    3. **Design Document** – Developing a structured blueprint for implementation, with an option to **download it as a PDF**.
-    4. **Code Generation** - Generating code based on the design, with an option to **download it as a .py file**.
-    5. **Security Review** - Checking for vulnerabilities.
-    6. **Test Cases** - Generating test cases to ensure functionality.
-    7. **QA Review** - Verifying the final product before deployment.  
+This AI-powered assistant automates and streamlines the **Software Development Life Cycle (SDLC)** by guiding software requirements through structured phases, ensuring **efficiency, security, and quality**.  
 
-    Each step ensures the software meets quality, security, and functional requirements efficiently.
-    """
+## SDLC Stages  
+
+1. **User Requirement** – Capturing the initial requirement from the user.  
+2. **Product Owner Review** – Validating and refining the requirement for feasibility.  
+3. **Design Document** – Creating a structured blueprint for implementation (**Downloadable as a PDF**).  
+4. **Code Generation** – Generating code based on the design (**Downloadable as a `.py` file**).  
+5. **Security Review** – Performing vulnerability checks to ensure secure code.  
+6. **Test Cases** – Auto-generating test cases for functionality validation.  
+7. **QA Review** – Verifying the final product before deployment.  
+
+## Why Use This AI-Assistant?  
+
+- **Automated & Efficient** – Reduces manual effort across the SDLC.  
+- **Downloadable Artifacts** – Provides structured documentation and generated code.  
